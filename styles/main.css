@@ -49,10 +49,10 @@ body, input, button, textarea {
     color: var(--color-text-base);
 }
 
-#container {
-    width: 90vw; /*largura*/
+/*#container {
+    width: 90vw; largura
     max-width: 600px;
-}
+}*/
 
 @media (min-width: 700px) {
     :root {
